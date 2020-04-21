@@ -7,3 +7,11 @@ draft: false
 ---
 
 Hello World.
+$$e^{x^2} \neq {e^x}^2$$
+$$\oint$$
+$$\iint$$
+$$\iiint$$
+$$f(x)=\frac{1}{\sqrt{2\pi}\sigma}e^\frac{(x-\mu)^2}{2\sigma^2}$$
+
+![avatar](/avatar.jpg)
+
