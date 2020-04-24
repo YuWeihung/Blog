@@ -1,7 +1,6 @@
 ---
 title: "Windows 7 安装及更新注意事项"
 date: 2020-04-21T21:49:37+08:00
-lastmod: 2020-04-21T21:49:37+08:00
 draft: false
 tags: ["系统安装"]
 categories: ["软件系统"]

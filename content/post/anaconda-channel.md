@@ -1,7 +1,6 @@
 ---
 title: "Anaconda 使用清华源并解决警告"
 date: 2020-04-23T11:09:19+08:00
-lastmod: 2020-04-23T11:09:19+08:00
 draft: false
 tags: ["应用软件"]
 categories: ["软件系统"]
