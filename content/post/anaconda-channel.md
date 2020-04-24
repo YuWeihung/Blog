@@ -25,7 +25,7 @@ categories: ["软件系统"]
 
 ### 最终方案
 
-经过尝试，我发现只需直接在 `channels` 字段把所有需要用到的源列出就可以了，不需要整一些花里胡哨的骚操作，清华搞了一些什么 alias 之类的操作，反而出了问题。现将我修改后的 `.condarc` 文件分享如下：
+经过尝试，我发现只需直接在 `channels` 字段把所有需要用到的源列出就可以了，不需要整一些花里胡哨的骚操作。现将我修改后的 `.condarc` 文件分享如下：
 
 ```
 channels:
@@ -35,6 +35,7 @@ channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/pro
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
 show_channel_urls: true
+channel_alias: https://mirrors.tuna.tsinghua.edu.cn/anaconda
 custom_channels:
   conda-forge: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
   msys2: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
