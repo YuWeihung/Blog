@@ -35,7 +35,6 @@ channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/pro
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
 show_channel_urls: true
-channel_alias: https://mirrors.tuna.tsinghua.edu.cn/anaconda
 custom_channels:
   conda-forge: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
   msys2: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
